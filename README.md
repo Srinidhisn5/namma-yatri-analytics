@@ -1,11 +1,12 @@
-# namma-yatri-analytics
-Data Analytics Dashboard for Urban Mobility - SQL, Python, Data Visualization
 # 🚕 Namma Yatri Analytics Dashboard
 
-**Live Dashboard:** [View Here](https://yourusername.github.io/namma-yatri-analytics/)
+**🔗 Live Dashboard:** [View Here](https://srinidhisn5.github.io/namma-yatri-analytics/)
 
-## Project Overview
-Comprehensive data analysis dashboard for urban mobility optimization, focused on Bangalore's ride-hailing ecosystem. This project demonstrates end-to-end data analytics capabilities from SQL querying to interactive visualization.
+## 📸 Dashboard Preview
+![Namma Yatri Dashboard](dashboard-preview.png)
+
+## 📊 Project Overview
+...
 
 ## Key Features
 - **Real-time Metrics Tracking:** Daily rides, active drivers, earnings, trip duration
